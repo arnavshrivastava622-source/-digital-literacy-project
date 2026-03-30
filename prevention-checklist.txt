@@ -1,0 +1,72 @@
+STAY SAFE ONLINE — PREVENTION CHECKLIST
+CSE0001 Digital Literacy | Task 5
+VIT Bhopal University
+
+=====================================================
+🔐 GENERAL SAFETY
+=====================================================
+
+1. Never click on links in unknown or suspicious 
+   emails or SMS messages.
+
+2. Always check the sender's email address carefully 
+   before responding or clicking anything.
+
+3. Use strong passwords with uppercase letters, 
+   numbers, and special characters.
+
+4. Enable two-factor authentication (2FA) on all 
+   your important accounts like email and GitHub.
+
+5. Never share your OTP with anyone — not even 
+   people claiming to be bank officials or college 
+   administration.
+
+=====================================================
+💰 FINANCIAL / UPI SAFETY
+=====================================================
+
+6. Never share your UPI PIN, CVV number, or debit 
+   card number with anyone under any circumstance.
+
+7. Always verify the receiver's UPI ID carefully 
+   before sending money to anyone.
+
+8. Never scan random QR codes sent by strangers — 
+   scanning can cause money to be withdrawn from 
+   your account, not deposited.
+
+=====================================================
+💻 DEVICE SAFETY
+=====================================================
+
+9. Always keep your phone and laptop software and 
+   apps updated to the latest version.
+
+10. Never use public Wi-Fi for banking, UPI payments,
+    or accessing sensitive personal accounts.
+
+11. Lock your phone and laptop with a strong PIN 
+    or password at all times.
+
+12. Never install apps from unknown or unofficial 
+    sources outside the Play Store or App Store.
+
+=====================================================
+🚨 REPORTING CHANNELS
+=====================================================
+
+If you are a victim of any cybercrime:
+
+🌐 National Cyber Crime Portal: cybercrime.gov.in
+📞 Cyber Crime Helpline: 1930 (24x7, free to call)
+
+Report immediately — the faster you report, the 
+higher the chance of recovering lost money.
+
+=====================================================
+📌 REMEMBER
+=====================================================
+No bank, college, or government office will ever 
+ask for your OTP, PIN, or password. 
+If someone asks — it is ALWAYS a scam.
